@@ -1,6 +1,5 @@
-# Força arquivos .cs a serem C#
-*.cs linguist-language=C#
-
-# Força arquivos específicos nas pastas Scripts e Content a serem C#
 SistemaERPOnlineAPI/Scripts/* linguist-language=C#
 SistemaERPOnlineAPI/Content/* linguist-language=C#
+*.cshtml linguist-language=C#
+*.cs linguist-language=C#
+* text=auto
