@@ -2,9 +2,5 @@
 *.cs linguist-language=C#
 
 # Força arquivos específicos nas pastas Scripts e Content a serem C#
-SistemaERPOnlineAPI/Scripts/** linguist-language=C#
-SistemaERPOnlineAPI/Content/** linguist-language=C#
-
-# Opcional: Se houver arquivos gerados (ex: designer.cs) que 
-# estão sujando a estatística, você pode marcá-los como gerados
-# *.designer.cs linguist-generated=true
+SistemaERPOnlineAPI/Scripts/* linguist-language=C#
+SistemaERPOnlineAPI/Content/* linguist-language=C#
