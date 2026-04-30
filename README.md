@@ -10,7 +10,7 @@ Exemplo de criação de API Asp.Net MVC5 utilizando banco de dados MySQL.
 
 ## String de conexão do banco
 
-Modifique a string de conexão no arquivo **WebConfig.app**, no trecho indicado:
+Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 
 ```json
 ...
