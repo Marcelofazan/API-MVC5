@@ -2,4 +2,5 @@ SistemaERPOnlineAPI/Scripts/* linguist-language=C#
 SistemaERPOnlineAPI/Content/* linguist-language=C#
 *.cshtml linguist-language=C#
 *.cs linguist-language=C#
+*.js linguist-language=C#
 * text=auto
