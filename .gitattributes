@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
+SistemaERPOnlineAPI/Scripts/* linguist-language=C#
+SistemaERPOnlineAPI/Content/* linguist-language=C#
+*.cshtml linguist-language=C#
 * text=auto
